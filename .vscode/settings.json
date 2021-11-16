@@ -1,3 +1,4 @@
 {
-  "javascript.format.insertSpaceAfterSemicolonInForStatements": false
+  "javascript.format.insertSpaceAfterSemicolonInForStatements": false,
+  "cSpell.words": ["minmax"]
 }
